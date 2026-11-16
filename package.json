@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@tauri-apps/plugin-opener": "^2.0.0"
+  },
+  "description": "Find It desktop shell (Tauri v2) \u2014 the Everyday Cool traveler app",
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.0.0"
+  },
+  "license": "MIT",
+  "name": "satellite-watch-app",
+  "private": true,
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "version": "1.0.0"
+}
