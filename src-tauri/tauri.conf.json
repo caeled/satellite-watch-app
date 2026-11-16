@@ -4,13 +4,7 @@
     "security": {
       "csp": null
     },
-    "windows": [
-      {
-        "title": "Satellite Watch",
-        "width": 1280,
-        "height": 900
-      }
-    ]
+    "windows": []
   },
   "build": {
     "frontendDist": "../dist"
@@ -28,5 +22,5 @@
   },
   "identifier": "org.satellitewatch.app",
   "productName": "Satellite Watch",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
